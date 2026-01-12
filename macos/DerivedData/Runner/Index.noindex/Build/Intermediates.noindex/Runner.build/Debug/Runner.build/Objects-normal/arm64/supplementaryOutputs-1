@@ -1,0 +1,10 @@
+{
+  "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/Runner/MainFlutterWindow.swift" : {
+    "abi-baseline-json" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/inertial_planck.abi.json",
+    "dependencies" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-primary.d",
+    "diagnostics" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/Runner-primary.dia",
+    "objc-header" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/inertial_planck-Swift.h",
+    "swiftdoc" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/inertial_planck.swiftdoc",
+    "swiftsourceinfo" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/arm64/inertial_planck.swiftsourceinfo"
+  }
+}

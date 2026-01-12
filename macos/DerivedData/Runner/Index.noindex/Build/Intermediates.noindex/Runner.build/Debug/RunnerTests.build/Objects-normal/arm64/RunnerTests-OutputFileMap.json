@@ -1,0 +1,13 @@
+{
+  "" : {
+    "dependencies" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-primary.d",
+    "diagnostics" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-primary.dia",
+    "emit-module-dependencies" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-primary-emit-module.dia",
+    "pch" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug/RunnerTests.build/Objects-normal/arm64/RunnerTests-primary.swiftdeps"
+  },
+  "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/RunnerTests/RunnerTests.swift" : {
+
+  }
+}

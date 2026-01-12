@@ -1,0 +1,51 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e02d14efa5122de29b6143434737a6a0e64"
+    },
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e02a26d6e580d3222b86d62fb80ec380c14"
+    }
+  ],
+  "containerPath" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/Runner.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Build/Products",
+      "pchPath" : "/Users/rodydavis/.gemini/antigravity/playground/inertial-planck/macos/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
